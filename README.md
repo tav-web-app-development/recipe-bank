@@ -1,4 +1,4 @@
-# Recipe Finder
+# Recipe Bank
 
 The app will show recipes by fetching recipes from an API. The URL is: `https://api.sampleapis.com/recipes/recipes`
 
@@ -18,7 +18,7 @@ Here are the requirements:
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Recipe Finder</title>
+    <title>Recipe Bank</title>
     <style>
       body {
         font-family: Arial, sans-serif;
